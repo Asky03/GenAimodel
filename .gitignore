@@ -1,0 +1,15 @@
+# 🧹 Ignore virtual environment
+venv/
+
+# 🧹 Ignore Python cache
+__pycache__/
+*.pyc
+
+# 🧹 Ignore env file
+.env
+
+# 🧹 Ignore Streamlit cache/logs
+.streamlit/
+
+# 🧹 Ignore Jupyter checkpoints (if any)
+.ipynb_checkpoints/
